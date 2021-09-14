@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<!-- Parent POM contains all general settings for building and releasing of all JEAF projects. -->
+	<parent>
+		<groupId>com.anaptecs.jeaf</groupId>
+		<artifactId>jeaf-project-parent</artifactId>
+		<version>1.0.16</version>
+	</parent>
+	
+	<artifactId>jeaf-plugin-project-parent</artifactId>
+	<version>1.0.22-SNAPSHOT</version>
+
+
+	<packaging>pom</packaging>
+	<name>JEAF Plugin Project Parent</name>
+	<description>Maven project defines properties, settings and version of libraries, plugins and modules that are used by all JEAF plugin projects.</description>
+	<url>https://github.com/anaptecs/jeaf</url>
+
+	<scm>
+		<connection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</connection>
+		<developerConnection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</developerConnection>
+		<url>https://bitbucket.org/anaptecs/jeaf-plugin-project-parent</url>
+	</scm>
+
+	<properties>
+		<!-- Properties for versions of JEAF Maven Plugins -->
+		<maven.jeaf-plugin.version>1.5.18</maven.jeaf-plugin.version>
+		<maven.jeaf-generator-plugin.version>1.5.14</maven.jeaf-generator-plugin.version>
+
+		<!-- Versions of dependent libraries -->
+		<junit.version>5.5.2</junit.version>
+		<junit.platform.version>1.5.2</junit.platform.version>
+		<junit3.version>3.8.2</junit3.version>
+
+		<!-- Logging frameworks -->
+		<commons-logging.version>1.1.3</commons-logging.version>
+		<log4j.version>2.14.1</log4j.version>
+		<slf4j-api.version>1.7.30</slf4j-api.version>
+		<slf4j-log4j.version>1.7.30</slf4j-log4j.version>
+
+		<!-- JEE libraries -->
+		<javaee-api.version>8.0</javaee-api.version>
+		<servlet-api.version>3.1.0</servlet-api.version>
+		<jpa2-api.version>1.0.1.Final</jpa2-api.version>
+		<java.mail.version>1.6.0</java.mail.version>
+		<javax.el.version>3.0.1-b11</javax.el.version>
+		<javax.ws.rs.version>2.1</javax.ws.rs.version>
+
+		<!-- Maven Plugin libraries -->
+		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
+		<maven.core.jar.version>3.6.3</maven.core.jar.version>
+		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
+		<maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
+		<mojo-executor.version>2.3.1</mojo-executor.version>
+
+		<!-- openArchitecture Ware oAW -->
+		<oaw.version>4.3.1</oaw.version>
+
+		<!-- Classgraph -->
+		<classgraph.version>4.8.105</classgraph.version>
+	</properties>
+
+</project>
