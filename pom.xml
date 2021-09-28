@@ -16,7 +16,7 @@
 	<packaging>pom</packaging>
 	<name>JEAF Plugin Project Parent</name>
 	<description>Maven project defines properties, settings and version of libraries, plugins and modules that are used by all JEAF plugin projects.</description>
-	<url>https://github.com/anaptecs/jeaf</url>
+	<url>https://www.anaptecs.de/jeaf</url>
 
 	<scm>
 		<connection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</connection>
