@@ -53,7 +53,7 @@
 		<maven.core.jar.version>3.6.3</maven.core.jar.version>
 		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
 		<maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
-		<mojo-executor.version>2.3.1</mojo-executor.version>
+		<mojo-executor.version>2.3.2</mojo-executor.version>
 
 		<!-- openArchitecture Ware oAW -->
 		<oaw.version>4.3.1</oaw.version>
