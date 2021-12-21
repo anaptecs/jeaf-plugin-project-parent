@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.anaptecs.jeaf</groupId>
 		<artifactId>jeaf-project-parent</artifactId>
-		<version>1.0.16</version>
+		<version>1.0.21</version>
 	</parent>
 	
 	<artifactId>jeaf-plugin-project-parent</artifactId>
@@ -26,8 +26,7 @@
 
 	<properties>
 		<!-- Properties for versions of JEAF Maven Plugins -->
-		<maven.jeaf-plugin.version>1.5.18</maven.jeaf-plugin.version>
-		<maven.jeaf-generator-plugin.version>1.5.14</maven.jeaf-generator-plugin.version>
+		<maven.jeaf-plugin.version>1.6.3</maven.jeaf-plugin.version>
 
 		<!-- Versions of dependent libraries -->
 		<junit.version>5.5.2</junit.version>
@@ -35,10 +34,10 @@
 		<junit3.version>3.8.2</junit3.version>
 
 		<!-- Logging frameworks -->
-		<commons-logging.version>1.1.3</commons-logging.version>
-		<log4j.version>2.14.1</log4j.version>
-		<slf4j-api.version>1.7.30</slf4j-api.version>
-		<slf4j-log4j.version>1.7.30</slf4j-log4j.version>
+		<commons-logging.version>1.2</commons-logging.version>
+		<log4j.version>2.17.0</log4j.version>
+		<slf4j-api.version>1.7.32</slf4j-api.version>
+		<slf4j-log4j.version>1.7.32</slf4j-log4j.version>
 
 		<!-- JEE libraries -->
 		<javaee-api.version>8.0</javaee-api.version>
