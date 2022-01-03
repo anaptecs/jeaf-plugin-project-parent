@@ -36,7 +36,7 @@
 
 		<!-- Logging frameworks -->
 		<commons-logging.version>1.2</commons-logging.version>
-		<log4j.version>2.17.0</log4j.version>
+		<log4j.version>2.17.1</log4j.version>
 		<slf4j-api.version>1.7.32</slf4j-api.version>
 		<slf4j-log4j.version>1.7.32</slf4j-log4j.version>
 
