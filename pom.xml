@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.anaptecs.jeaf</groupId>
 		<artifactId>jeaf-project-parent</artifactId>
-		<version>1.0.21</version>
+		<version>1.0.22-SNAPSHOT</version>
 	</parent>
 	
 	<artifactId>jeaf-plugin-project-parent</artifactId>
@@ -60,6 +60,8 @@
 
 		<!-- Classgraph -->
 		<classgraph.version>4.8.105</classgraph.version>
+		
+		<swagger.annotations.version>2.1.11</swagger.annotations.version>
 	</properties>
 
 </project>
