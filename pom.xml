@@ -53,7 +53,7 @@
 		<maven.core.jar.version>3.6.3</maven.core.jar.version>
 		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
 		<maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
-		<mojo-executor.version>2.3.2</mojo-executor.version>
+		<mojo-executor.version>2.4.0</mojo-executor.version>
 
 		<!-- openArchitecture Ware oAW -->
 		<oaw.version>4.3.1</oaw.version>
@@ -62,6 +62,13 @@
 		<classgraph.version>4.8.105</classgraph.version>
 		
 		<swagger.annotations.version>2.1.11</swagger.annotations.version>
+		
+		<jackson.version>2.13.1</jackson.version>
+		<validation-api.version>2.0.1.Final</validation-api.version>
+		<apache.poi.version>5.2.2</apache.poi.version>
+		<apache.commons.io.version>2.11.0</apache.commons.io.version>
+		<xml.unit.version>2.7.0</xml.unit.version>
+		
 	</properties>
 
 </project>
