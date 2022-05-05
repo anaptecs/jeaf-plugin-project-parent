@@ -49,10 +49,9 @@
 		<javax.ws.rs.version>2.1</javax.ws.rs.version>
 
 		<!-- Maven Plugin libraries -->
-		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
-		<maven.core.jar.version>3.6.3</maven.core.jar.version>
-		<maven.plugin.api.version>3.6.3</maven.plugin.api.version>
-		<maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
+		<maven.plugin.api.version>3.8.5</maven.plugin.api.version>
+		<maven.core.jar.version>3.8.5</maven.core.jar.version>
+		<maven.plugin.annotations.version>3.6.4</maven.plugin.annotations.version>
 		<mojo-executor.version>2.4.0</mojo-executor.version>
 
 		<!-- openArchitecture Ware oAW -->
