@@ -10,7 +10,7 @@
 	</parent>
 	
 	<artifactId>jeaf-plugin-project-parent</artifactId>
-	<version>1.0.28-SNAPSHOT</version>
+	<version>1.0.28</version>
 
 
 	<packaging>pom</packaging>
@@ -22,7 +22,7 @@
 		<connection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</connection>
 		<developerConnection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</developerConnection>
 		<url>https://bitbucket.org/anaptecs/jeaf-plugin-project-parent</url>
-		<tag>HEAD</tag>
+		<tag>jeaf-plugin-project-parent-1.0.28</tag>
   </scm>
 
 	<properties>
