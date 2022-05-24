@@ -64,6 +64,9 @@
 		
 		<apache.httpclient5.version>5.1.3</apache.httpclient5.version>
 		
+		<!-- Resilience4J -->
+		<resilience4j.version>1.7.1</resilience4j.version>
+		
 		<jackson.version>2.13.3</jackson.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<apache.poi.version>5.2.2</apache.poi.version>
