@@ -73,6 +73,8 @@
 		<apache.commons.io.version>2.11.0</apache.commons.io.version>
 		<xml.unit.version>2.7.0</xml.unit.version>
 		
+		<!-- Mock Server Version -->
+		<mock.server.version>5.13.2</mock.server.version>
 	</properties>
 
 </project>
