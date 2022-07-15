@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.anaptecs.jeaf</groupId>
 		<artifactId>jeaf-project-parent</artifactId>
-		<version>1.0.24</version>
+		<version>1.0.25</version>
 	</parent>
 	
 	<artifactId>jeaf-plugin-project-parent</artifactId>
@@ -23,7 +23,7 @@
 		<developerConnection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</developerConnection>
 		<url>https://bitbucket.org/anaptecs/jeaf-plugin-project-parent</url>
 		<tag>HEAD</tag>
-  </scm>
+	</scm>
 
 	<properties>
 		<!-- Properties for versions of JEAF Maven Plugins -->
