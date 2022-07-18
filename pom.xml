@@ -27,7 +27,7 @@
 
 	<properties>
 		<!-- Properties for versions of JEAF Maven Plugins -->
-		<maven.jeaf-plugin.version>1.6.10</maven.jeaf-plugin.version>
+		<maven.jeaf-plugin.version>1.6.13</maven.jeaf-plugin.version>
 
 		<!-- Versions of dependent libraries -->
 		<junit.version>5.8.2</junit.version>
@@ -58,7 +58,7 @@
 		<oaw.version>4.3.1</oaw.version>
 
 		<!-- Classgraph -->
-		<classgraph.version>4.8.105</classgraph.version>
+		<classgraph.version>4.8.149</classgraph.version>
 		
 		<swagger.annotations.version>2.1.11</swagger.annotations.version>
 		
