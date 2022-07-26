@@ -50,7 +50,7 @@
 		<javax.annotation-api.version>1.3.2</javax.annotation-api.version>
 
 		<!-- Maven Plugin libraries -->
-		<maven.plugin.api.version>3.8.5</maven.plugin.api.version>
+		<maven.plugin.api.version>3.8.6</maven.plugin.api.version>
 		<maven.core.jar.version>3.8.5</maven.core.jar.version>
 		<maven.plugin.annotations.version>3.6.4</maven.plugin.annotations.version>
 		<mojo-executor.version>2.4.0</mojo-executor.version>
