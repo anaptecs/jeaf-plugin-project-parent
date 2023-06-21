@@ -26,9 +26,6 @@
 	</scm>
 
 	<properties>
-		<!-- Properties for versions of JEAF Maven Plugins -->
-		<maven.jeaf-plugin.version>1.6.16</maven.jeaf-plugin.version>
-
 		<!-- Versions of dependent libraries -->
 		<junit.version>5.8.2</junit.version>
 		<junit.platform.version>1.8.2</junit.platform.version>
