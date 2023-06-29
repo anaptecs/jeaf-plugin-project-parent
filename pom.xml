@@ -27,8 +27,8 @@
 
 	<properties>
 		<!-- Versions of dependent libraries -->
-		<junit.version>5.8.2</junit.version>
-		<junit.platform.version>1.8.2</junit.platform.version>
+		<junit.version>5.9.3</junit.version>
+		<junit.platform.version>1.9.3</junit.platform.version>
 		<junit3.version>3.8.2</junit3.version>
 
 		<!-- Logging frameworks -->
@@ -38,7 +38,7 @@
 		<slf4j-log4j.version>1.7.36</slf4j-log4j.version>
 
 		<!-- JEE libraries -->
-		<javaee-api.version>8.0</javaee-api.version>
+		<javaee-api.version>8.0.1</javaee-api.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<jpa2-api.version>1.0.1.Final</jpa2-api.version>
 		<java.mail.version>1.6.0</java.mail.version>
@@ -49,7 +49,7 @@
 		<!-- Maven Plugin libraries -->
 		<maven.plugin.api.version>3.8.6</maven.plugin.api.version>
 		<maven.core.jar.version>3.8.5</maven.core.jar.version>
-		<maven.plugin.annotations.version>3.6.4</maven.plugin.annotations.version>
+		<maven.plugin.annotations.version>3.8.2</maven.plugin.annotations.version>
 		<mojo-executor.version>2.4.0</mojo-executor.version>
 
 		<!-- openArchitecture Ware oAW -->
@@ -58,21 +58,23 @@
 		<!-- Classgraph -->
 		<classgraph.version>4.8.160</classgraph.version>
 		
-		<swagger.annotations.version>2.2.12</swagger.annotations.version>
+		<swagger.annotations.version>2.2.14</swagger.annotations.version>
+		<swagger.annotations.v2.version>1.6.11</swagger.annotations.v2.version>
 		
 		<apache.httpclient5.version>5.2.1</apache.httpclient5.version>
 		
 		<!-- Resilience4J -->
 		<resilience4j.version>1.7.1</resilience4j.version>
 		
-		<jackson.version>2.13.3</jackson.version>
+		<jackson.version>2.15.2</jackson.version>
+		<jackson.databind.nullable.version>0.26</jackson.databind.nullable.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<apache.poi.version>5.2.3</apache.poi.version>
-		<apache.commons.io.version>2.11.0</apache.commons.io.version>
-		<xml.unit.version>2.7.0</xml.unit.version>
+		<apache.commons.io.version>2.13.0</apache.commons.io.version>
+		<xml.unit.version>2.9.1</xml.unit.version>
 		
 		<!-- Mock Server Version -->
-		<mock.server.version>5.13.2</mock.server.version>
+		<mock.server.version>5.15.0</mock.server.version>
 	</properties>
 
 </project>
