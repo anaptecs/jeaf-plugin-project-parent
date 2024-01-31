@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.anaptecs.jeaf</groupId>
 		<artifactId>jeaf-project-parent</artifactId>
-		<version>1.0.32</version>
+		<version>1.0.33-SNAPSHOT</version>
 	</parent>
 	
 	<artifactId>jeaf-plugin-project-parent</artifactId>
@@ -19,9 +19,9 @@
 	<url>https://www.anaptecs.de/jeaf</url>
 
 	<scm>
-		<connection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</connection>
-		<developerConnection>scm:git:https://bitbucket.org/anaptecs/jeaf-plugin-project-parent.git</developerConnection>
-		<url>https://bitbucket.org/anaptecs/jeaf-plugin-project-parent</url>
+		<connection>scm:git:https://github.com/anaptecs/jeaf-plugin-project-parent.git</connection>
+		<developerConnection>scm:git:https://github.com/anaptecs/jeaf-plugin-project-parent.git</developerConnection>
+		<url>https://github.com/anaptecs/jeaf-plugin-project-parent.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
