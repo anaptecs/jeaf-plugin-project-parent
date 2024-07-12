@@ -36,6 +36,9 @@
 		<log4j.version>2.20.0</log4j.version>
 		<slf4j-api.version>1.7.36</slf4j-api.version>
 		<slf4j-log4j.version>1.7.36</slf4j-log4j.version>
+		
+		<commons-lang.version>3.14.0</commons-lang.version>
+		<commons-io.version>2.16.1</commons-io.version>
 
 		<!-- JEE libraries -->
 		<javaee-api.version>8.0.1</javaee-api.version>
@@ -69,9 +72,12 @@
 		<jackson.version>2.15.2</jackson.version>
 		<jackson.databind.nullable.version>0.2.6</jackson.databind.nullable.version>
 		<validation-api.version>2.0.1.Final</validation-api.version>
-		<apache.poi.version>5.2.3</apache.poi.version>
-		<apache.commons.io.version>2.13.0</apache.commons.io.version>
+		<apache.commons-lang.version>3.14.0</apache.commons-lang.version>
+		<apache.commons.io.version>2.16.1</apache.commons.io.version>
+		<apache.poi.version>5.3.0</apache.poi.version>
 		<xml.unit.version>2.9.1</xml.unit.version>
+
+
 		
 		<!-- Mock Server Version -->
 		<mock.server.version>5.15.0</mock.server.version>
