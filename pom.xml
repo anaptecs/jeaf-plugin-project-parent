@@ -25,6 +25,13 @@
 		<tag>HEAD</tag>
 	</scm>
 
+	<distributionManagement>
+		<snapshotRepository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/anaptecs/jeaf-plugin-project-parent</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 	<properties>
 		<!-- Versions of dependent libraries -->
 		<junit.version>5.9.3</junit.version>
