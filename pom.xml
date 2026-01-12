@@ -76,8 +76,11 @@
 		<!-- Resilience4J -->
 		<resilience4j.version>1.7.1</resilience4j.version>
 		
-		<jackson.version>2.15.2</jackson.version>
+		<jackson2.version>2.15.2</jackson2.version>
 		<jackson.databind.nullable.version>0.2.6</jackson.databind.nullable.version>
+		
+		<jackson3.version>3.0.3</jackson3.version>
+		
 		<validation-api.version>2.0.1.Final</validation-api.version>
 		<apache.commons-lang.version>3.14.0</apache.commons-lang.version>
 		<apache.commons.io.version>2.16.1</apache.commons.io.version>
